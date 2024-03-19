@@ -24,6 +24,7 @@ justify-content: center;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding: 15px;
 }
 
 .avatar {
@@ -32,16 +33,16 @@ justify-content: center;
 }
 
 .statusOnline {
-color: rgb(39, 91, 150);
+color: rgb(24, 196, 8);
   font-size: 22px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 250;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.statusOFline {
-  color: rgb(60, 255, 0);
+.statusOffline {
+  color: rgb(255, 0, 0);
   font-size: 22px;
   font-style: normal;
   font-weight: 300;
